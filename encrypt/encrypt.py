@@ -1,4 +1,4 @@
-#通过无序字符串将有序字符串进行加密
+#通过无序字符串将有序字符串进行加密 
 import string
 import random
 
